@@ -5,7 +5,7 @@ The purpose of this repository is to test the nvim installation process and eval
 3. Nerd font for devicons. Download and install devicons from [NerdFonts](https://www.nerdfonts.com/font-downloads). <br>
 ([JetBrains](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/JetBrainsMono.zip) is highly recommended.)<br>
 Unzip and install all fonts.
-4. Make a backup of your nvim files(if any):
+4. If nvim is already installed, make a backup of your nvim files:
    
    ```bash
    mv ~/.config/nvim ~/.config/nvim.bak
