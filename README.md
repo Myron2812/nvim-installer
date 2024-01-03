@@ -11,6 +11,7 @@ Unzip and install all fonts.
    mv ~/.config/nvim ~/.config/nvim.bak
    mv ~/.local/share/nvim ~/.local/share/nvim.bak
    ```
-5. Copy the ``nvim`` folder to your ``~/.config/`` folder if on Linux and ``$HOME\AppData\Local\`` if on Windows.
-7. Activate SystemVerilog Language servers by adding a ``.git`` folder inside your project folder (if the folder already has a .git folder, skip this step)
-8. Enable the required configuration for the language servers by adding the ``.svlint.toml`` and ``.rules.verible_lint`` files in this repository to your project folder.
+5. Copy the nvim folder to your ``~/.config/`` folder if on Linux and ``$HOME\AppData\Local\`` if on Windows.
+6. Launch nvim and run ``:MasonInstall svls verible`` to install the SystemVerilog LSPs(Language Server Protocols).
+7. Activate the LSPs by adding a ``.git`` folder inside your project folder (if the folder already has a ``.git`` folder, skip this step)
+8. Enable the required configuration for the LSPs by adding the ``.svlint.toml`` and ``.rules.verible_lint`` files in this repository to your project folder.
