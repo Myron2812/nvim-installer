@@ -12,6 +12,5 @@ Unzip and install all fonts.
    mv ~/.local/share/nvim ~/.local/share/nvim.bak
    ```
 5. Copy the ``nvim-config`` folder to your ~/.config/ folder and rename it to ``nvim``.
-6. Copy the ``nvim-share`` folder to your ~/.local/share/ folder and rename it to ``nvim``.
-7. Activate SystemVerilog Language servers by adding a ``.git`` folder inside your project folder (if the folder already has a .git folder, skip this step)
-8. Enable the required configuration for the language servers by adding the ``.svlint.toml`` and ``.rules.verible_lint`` files in this repository to your project folder.
+6. Activate SystemVerilog Language servers by adding a ``.git`` folder inside your project folder (if the folder already has a .git folder, skip this step)
+7. Enable the required configuration for the language servers by adding the ``.svlint.toml`` and ``.rules.verible_lint`` files in this repository to your project folder.
