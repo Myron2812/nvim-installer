@@ -1,6 +1,6 @@
 # nvim-installer
 The purpose of this repository is to test the nvim installation process and evaluate requirements.
-## Installation steps:
+## Installation:
 1. Download and install [neovim](https://github.com/neovim/neovim/releases/).
 3. Nerd font for devicons. Download and install devicons from [NerdFonts](https://www.nerdfonts.com/font-downloads). <br>
 ([JetBrains](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/JetBrainsMono.zip) is highly recommended.)<br>
