@@ -24,12 +24,13 @@ return {
   { "metalelf0/jellybeans-nvim", requires = "rktjmp/lush.nvim" },
   { "Shatur/neovim-ayu" },
   { "kartikp10/noctis.nvim", requires = "rktjmp/lush.nvim" },
+  { "projekt0n/github-nvim-theme" },
 
   --theme selection
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "ayu", --Change theme here. In the cmd line, type 'Telescope colorscheme' to get full list of available themes
+      colorscheme = "github_dark_default", --Change theme here. In the cmd line, type 'Telescope colorscheme' to get full list of available themes
     },
   },
 }
