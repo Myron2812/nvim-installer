@@ -5,7 +5,7 @@ The purpose of this repository is to test the nvim installation process and eval
 _**Neovim is a hyperextensible Vim-based text editor that seeks to aggressively refactor Vim.**_
 
 What makes it stand out is the extensive support it provides for <i>[third party plugins](https://github.com/topics/neovim-plugins)</i>. And it does so with the help of [Lua scripts](https://neovim.io/doc/user/lua.html).
-This project consists of a custom configuration of NeoVim based on [LazyVim](https://github.com/LazyVim/LazyVim) and contains LSP (Language Server Protocol) configuration files in compliance with the [best coding practices](https://github.com/muneebullashariff/best_coding_practices) for Design Verification. It contains all the features provided LazyVim and more.
+This project consists of a custom configuration of NeoVim based on [LazyVim](https://www.lazyvim.org/) and contains LSP (Language Server Protocol) configuration files in compliance with the [best coding practices](https://github.com/muneebullashariff/best_coding_practices) for Design Verification. It contains all the features provided LazyVim and more.
 
 ## Features:
 ### Customized features:
