@@ -27,9 +27,8 @@ Fold-preview allows you to preview closed folds, without opening them. <br> **Ho
    ```bash
    curl https://sh.rustup.rs -sSf | sh
    ```
-4. Nerd font for devicons. Download and install devicons from [NerdFonts](https://www.nerdfonts.com/font-downloads). <br>
-([JetBrains](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/JetBrainsMono.zip) is highly recommended.)<br>
-Unzip and install all fonts.
+4. Use nerd fonts to recognize devicons in the GUI. <br> Download, install and set the following font as your default font for terminal: [JetBrains](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/JetBrainsMono.zip)  <br>
+More fonts can be downloaded from [NerdFonts](https://www.nerdfonts.com/font-downloads).<br>
 5. If nvim is already installed, make a backup of your nvim files:
    
    ```bash
