@@ -10,7 +10,7 @@ This project consists of a custom configuration of NeoVim based on [LazyVim](htt
 ## Features:
 ### Customized features:
 * 📜 [Alpha-nvim](https://github.com/goolord/alpha-nvim): Alpha provides nvim with a customized main menu page.
-  ![image](https://github.com/Myron2812/nvim-installer/assets/67193041/cf47d401-8e7d-496a-93a1-9433bdc66a35)
+![image](https://github.com/Myron2812/nvim-installer/assets/67193041/2553fdf2-ec83-4458-a040-e603a21e3532)
 *  📂 [Pretty-fold](https://github.com/anuvyklack/pretty-fold.nvim) & [Fold-preview](https://github.com/anuvyklack/fold-preview.nvim):<br>
 Pretty-fold supports foldtext customization.<img src = "https://github.com/Myron2812/nvim-installer/assets/67193041/135f5bb3-3130-4024-b5e8-1f79f633dc50"> <p align = "center">_Without pretty-fold_ </p> <br><img src = "https://github.com/Myron2812/nvim-installer/assets/67193041/61a20a6c-0396-4209-8317-51bf8e342fb4"> <p align = "center"> _With pretty-fold_ </p> <br>
 Fold-preview allows you to preview closed folds, without opening them. <br> **How-to-use:** Click ``h`` on a fold to preview. <img src = "https://github.com/Myron2812/nvim-installer/assets/67193041/cfbd1db4-01f9-4867-a795-45d493993581">
